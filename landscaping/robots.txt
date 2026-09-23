@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://demo-landscape-demo.netlify.app/sitemap.xml

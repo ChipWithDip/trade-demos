@@ -1,0 +1,15 @@
+# Mile High Tire & Auto
+
+> Mile High Tire & Auto in Aurora, CO: New and used tires, brakes, oil changes and general repair. Most jobs done same day.
+
+## What we sell
+
+- Tires
+- Brakes
+- Oil changes
+- Repairs
+- Scheduled service
+
+## Pages
+
+- https://demo-tire-demo.netlify.app/
